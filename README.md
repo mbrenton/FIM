@@ -20,3 +20,4 @@ Project Goals:
 - Email alert
 - GUI to add files easily
 - Make it a scheduled process
+- Add more error checking, especially for checking what files to monitor
